@@ -1,0 +1,3 @@
+display_name: 上市总控
+short_description: 上市总控入口，内置完整董秘体系。
+default_prompt: 使用 $capital-market-project-orchestrator，作为上市总控统筹董秘完整体系。

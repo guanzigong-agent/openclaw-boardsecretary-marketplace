@@ -1,7 +1,0 @@
-interface:
-  display_name: "上市总控"
-  short_description: "新三板挂牌到北交所/创业板路径总控"
-  default_prompt: "Use $capital-market-project-orchestrator to plan a NEEQ listing project and compare BSE vs ChiNext readiness."
-
-policy:
-  allow_implicit_invocation: true
