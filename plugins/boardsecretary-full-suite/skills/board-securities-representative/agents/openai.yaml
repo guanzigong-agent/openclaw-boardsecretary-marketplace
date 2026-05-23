@@ -1,0 +1,6 @@
+interface:
+  display_name: "证券事务代表"
+  short_description: "三会、定报、监管沟通、信披准备和中介协同执行"
+  default_prompt: "使用 $board-securities-representative，帮我处理证券事务代表工作。"
+policy:
+  allow_implicit_invocation: true

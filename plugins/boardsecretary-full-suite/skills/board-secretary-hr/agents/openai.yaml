@@ -1,0 +1,6 @@
+interface:
+  display_name: "证券部人力资源专员"
+  short_description: "管理证券部岗位、招聘、入职、培训、绩效与工作交接"
+  default_prompt: "使用 $board-secretary-hr，帮我建立证券部人力资源管理体系。"
+policy:
+  allow_implicit_invocation: true
