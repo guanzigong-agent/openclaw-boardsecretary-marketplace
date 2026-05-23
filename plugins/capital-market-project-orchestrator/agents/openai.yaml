@@ -1,0 +1,6 @@
+interface:
+  display_name: "上市总控"
+  short_description: "新三板挂牌到北交所/创业板路径总控"
+  default_prompt: "使用 $capital-market-project-orchestrator，帮我统筹资本市场项目总路径。"
+policy:
+  allow_implicit_invocation: true

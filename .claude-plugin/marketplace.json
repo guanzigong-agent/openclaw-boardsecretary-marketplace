@@ -1,0 +1,20 @@
+{
+    "name":  "boardsecretary-capital-market",
+    "owner":  {
+                  "name":  "BoardSecretary",
+                  "email":  ""
+              },
+    "description":  "Board secretary capital market project plugins for OpenClaw compatible bundle install.",
+    "version":  "0.1.0",
+    "plugins":  [
+                    {
+                        "name":  "capital-market-project-orchestrator",
+                        "source":  "./plugins/capital-market-project-orchestrator",
+                        "description":  "上市总控插件，用于统筹新三板挂牌、股改、治理规范、尽调、披露、财务质量、同业对标、股权结构、北交所/创业板/IPO 准备和中介协调。",
+                        "version":  "0.1.0",
+                        "author":  {
+                                       "name":  "Local developer"
+                                   }
+                    }
+                ]
+}

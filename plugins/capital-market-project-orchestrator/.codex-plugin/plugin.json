@@ -1,0 +1,26 @@
+{
+  "name": "capital-market-project-orchestrator",
+  "version": "0.1.0",
+  "description": "上市总控插件，用于统筹中国企业从新三板挂牌到北交所、创业板或 IPO 准备的资本市场项目。",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "上市总控",
+    "shortDescription": "新三板挂牌到北交所/创业板路径总控。",
+    "longDescription": "面向拟挂牌或拟上市企业董秘，统筹新三板挂牌、股改、治理规范、尽调、披露、财务质量、同业对标、股权结构、北交所/创业板/IPO 准备和中介协调。专业法律、审计、评估和证券结论仍需由中介机构确认。",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [
+      "上市总控",
+      "挂牌总控",
+      "项目计划",
+      "差距分析",
+      "中介协调"
+    ],
+    "defaultPrompt": [
+      "使用 $capital-market-project-orchestrator，帮我统筹新三板挂牌到北交所/创业板路径的资本市场项目。"
+    ]
+  }
+}
